@@ -1,0 +1,10 @@
+grafana-dev-tc72: 172.17.0.2:3100
+grafana-dev-5jvy: 172.17.0.2:3101
+grafana-dev-4e0i: 172.17.0.3:3100
+grafana-dev-4e0i: 172.17.0.2:3100
+grafana-dev-5jvy: 172.17.0.3:3101
+influxdb-dev-qtfm: 172.17.0.4:8186
+nodered-dev-zipr: 172.17.0.5:1980
+nodered-prod-0xgj: 172.17.0.2:1880
+influxdb-prod-2fey: 172.17.0.3:8086
+grafana-prod-49e9: 172.17.0.4:3000
